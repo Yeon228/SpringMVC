@@ -70,12 +70,23 @@
       <workItem from="1673803336557" duration="962000" />
       <workItem from="1673946996977" duration="3340000" />
       <workItem from="1673985958403" duration="31000" />
-      <workItem from="1674231803134" duration="1348000" />
+      <workItem from="1674231803134" duration="2808000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hello/servlet/servlet/basic/response/ResponseHeaderServlet.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
