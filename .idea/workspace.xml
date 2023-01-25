@@ -49,7 +49,54 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MemberRepositoryTest">
+    <configuration name="MemberRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRepositoryTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRepositoryTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
@@ -57,6 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberRepositoryTest" />
+        <item itemvalue="JUnit.MemberRepositoryTest.findAll" />
+        <item itemvalue="JUnit.MemberRepositoryTest.save" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,6 +125,7 @@
       <workItem from="1673946996977" duration="3340000" />
       <workItem from="1673985958403" duration="31000" />
       <workItem from="1674231803134" duration="3116000" />
+      <workItem from="1674427428541" duration="2442000" />
     </task>
     <servers />
   </component>
