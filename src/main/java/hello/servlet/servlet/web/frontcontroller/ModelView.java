@@ -2,11 +2,9 @@ package hello.servlet.servlet.web.frontcontroller;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.eclipse.tags.shaded.org.apache.xpath.operations.Mod;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 @Getter @Setter
 public class ModelView {
