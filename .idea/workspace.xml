@@ -62,7 +62,7 @@
       <recent name="hello.servlet.servlet.web.servlet" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServletApplication">
+  <component name="RunManager" selected="Spring Boot.SpringmvcApplication">
     <configuration name="MemberRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="servlet.test" />
       <extension name="coverage">
@@ -110,6 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServletApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springmvc.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="servlet.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
@@ -117,8 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringmvcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springmvc.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.springmvc.SpringmvcApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.springmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SpringmvcApplication" />
         <item itemvalue="JUnit.MemberRepositoryTest" />
         <item itemvalue="JUnit.MemberRepositoryTest.findAll" />
         <item itemvalue="JUnit.MemberRepositoryTest.save" />
@@ -146,6 +167,7 @@
       <workItem from="1675190468076" duration="8043000" />
       <workItem from="1675279891312" duration="5557000" />
       <workItem from="1675448982189" duration="13000" />
+      <workItem from="1675449411453" duration="1309000" />
     </task>
     <servers />
   </component>
