@@ -21,6 +21,7 @@
         <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -169,6 +171,7 @@
       <workItem from="1675448982189" duration="13000" />
       <workItem from="1675449411453" duration="3586000" />
       <workItem from="1675484858812" duration="6000" />
+      <workItem from="1675703877465" duration="3033000" />
     </task>
     <servers />
   </component>
