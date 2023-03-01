@@ -57,6 +57,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/response" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="hello.servlet.servlet.web.frontcontroller.v4" />
       <recent name="hello.servlet.servlet.web.frontcontroller.v4.controller" />
@@ -173,7 +176,11 @@
       <workItem from="1675484858812" duration="6000" />
       <workItem from="1675703877465" duration="4715000" />
       <workItem from="1675794852684" duration="1688000" />
-      <workItem from="1675880348996" duration="802000" />
+      <workItem from="1675880348996" duration="4397000" />
+      <workItem from="1675928547074" duration="1196000" />
+      <workItem from="1677008614309" duration="119000" />
+      <workItem from="1677076220178" duration="1901000" />
+      <workItem from="1677095997775" duration="5000" />
     </task>
     <servers />
   </component>
